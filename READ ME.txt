@@ -1,0 +1,26 @@
+Code Refactoring Homework
+
+--Horiseon-Social-Media-Marketing
+
+Horiseon Social media marketing is a website to promote a service. Social media marketing is becoming more popular for both practitioners and researchers. Companies address a range of stakeholders through social media marketing, including current and potential customers, current and potential employees, journalists, bloggers, and the general public and Horiseon is here to help with that, specifically with:
+
+-Search Engine Optimization.
+
+-Online Reputation Management.
+
+-Social Media Marketing.
+
+-- Files and Directories
+
+----------
+index.html
+style.css
+README.md
+>images (the directory contains all the images for the project)
+----------
+
+Fixed the link for "search-engine-optimization" id, changed code to use semantic HTML elements, added alt elements on all the images, changed the title to a descriptive one, commented on my changes made to the HTML and CSS.
+
+-Credits
+
+© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
